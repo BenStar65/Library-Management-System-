@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Management System(July Exam)", "Library Management System(July Exam)\Library Management System(July Exam).csproj", "{435BC4CC-188C-4FFA-9516-65CB68D73B96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D1E82128-1339-412A-A22E-850578CF7A0F}"
+	ProjectSection(SolutionItems) = preProject
+		Library Management System(July Exam)\UserDashboardForm.cs = Library Management System(July Exam)\UserDashboardForm.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{435BC4CC-188C-4FFA-9516-65CB68D73B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435BC4CC-188C-4FFA-9516-65CB68D73B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435BC4CC-188C-4FFA-9516-65CB68D73B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435BC4CC-188C-4FFA-9516-65CB68D73B96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F862092-0A46-4B50-947F-8CCF85224BB9}
+	EndGlobalSection
+EndGlobal
